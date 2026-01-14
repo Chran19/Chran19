@@ -37,10 +37,10 @@
 
 <div align="center">
 
-| **GearUp** | **GreenBasket** |
-| :---: | :---: |
+|                             **GearUp**                              |            **GreenBasket**            |
+| :-----------------------------------------------------------------: | :-----------------------------------: |
 | Rental marketplace for short-term access to vehicles & electronics. | Farmer-to-Consumer e-commerce system. |
-| `React` `Node.js` `MongoDB` | `Java` `Spring Boot` `MySQL` |
+|                     `React` `Node.js` `MongoDB`                     |     `Java` `Spring Boot` `MySQL`      |
 
 </div>
 
