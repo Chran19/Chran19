@@ -30,7 +30,7 @@
 ---
 
 <!-- About Me Section -->
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide/rocket.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> About Me</h2>
 
 <p align="center">
   I am a passionate <b>Software Engineering Student</b> at <b>MIT Academy of Engineering</b>. 
@@ -41,10 +41,10 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 Currently working on <b>Transformer Fault Prediction</b> (ML project)</li>
-        <li>🌱 Mastering <b>Next.js 14</b>, <b>Cloud Security</b>, and <b>Advanced DevOps</b></li>
-        <li>👯 Open to collaborating on <b>Open Source</b> and <b>Full-Stack</b> projects</li>
-        <li>💬 Ask me about <b>Java, React, and Cloud Architecture</b></li>
+        <li><img src="https://api.iconify.design/lucide/telescope.svg?color=%232196F3" width="18" style="vertical-align: middle;" /> Currently working on <b>Transformer Fault Prediction</b> (ML project)</li>
+        <li><img src="https://api.iconify.design/lucide/sprout.svg?color=%232196F3" width="18" style="vertical-align: middle;" /> Mastering <b>Next.js 14</b>, <b>Cloud Security</b>, and <b>Advanced DevOps</b></li>
+        <li><img src="https://api.iconify.design/lucide/users.svg?color=%232196F3" width="18" style="vertical-align: middle;" /> Open to collaborating on <b>Open Source</b> and <b>Full-Stack</b> projects</li>
+        <li><img src="https://api.iconify.design/lucide/message-square-text.svg?color=%232196F3" width="18" style="vertical-align: middle;" /> Ask me about <b>Java, React, and Cloud Architecture</b></li>
       </ul>
     </td>
     <td width="40%">
@@ -56,7 +56,7 @@
 ---
 
 <!-- Tech Stack - Categorized -->
-<h2 align="center">🛠️ Tech Stack & Proficiency</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide/wrench.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> Tech Stack & Proficiency</h2>
 
 <div align="center">
 
@@ -66,7 +66,6 @@
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" /> |
 | **DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman" /> |
-| **Learning** | <img src="https://skillicons.dev/icons?i=kubernetes,pytorch,tensorflow" /> |
 
 </div>
 
@@ -83,8 +82,17 @@
 
 ---
 
+<!-- Currently Learning -->
+<h2 align="center"><img src="https://api.iconify.design/lucide/book-open.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> Currently Learning</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes,pytorch,tensorflow" />
+</p>
+
+---
+
 <!-- Featured Projects -->
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide/star.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/Chran19/GreenBasket">
@@ -107,7 +115,7 @@
 ---
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chran19&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
