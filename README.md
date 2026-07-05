@@ -1,14 +1,21 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ranjeet%20Choudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
-</p>
+<!-- Header -->
+<div align="center">
+<pre>
+██████╗  █████╗ ███╗   ██╗     ██╗███████╗███████╗████████╗
+██╔══██╗██╔══██╗████╗  ██║     ██║██╔════╝██╔════╝╚══██╔══╝
+██████╔╝███████║██╔██╗ ██║     ██║█████╗  █████╗     ██║   
+██╔══██╗██╔══██║██║╚██╗██║██   ██║██╔══╝  ██╔══╝     ██║   
+██║  ██║██║  ██║██║ ╚████║╚█████╔╝███████╗███████╗   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚══════╝╚══════╝   ╚═╝   
+-------------------------- C H O U D H A R Y -------------------------
+   
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
-  </a>
-</p>
+</pre>
+</div>
+
+<!-- Subtitle & Quote -->
+<h3 align="center">Software Engineering Student | Full Stack Developer</h3>
+<p align="center"><i>"Live in the moment"</i></p>
 
 <!-- Profile Views & Social Badges -->
 <p align="center">
@@ -94,14 +101,7 @@
 <!-- Featured Projects -->
 <h2 align="center"><img src="https://api.iconify.design/lucide/star.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Chran19/GreenBasket">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chran19&repo=GreenBasket&theme=radical&hide_border=true" alt="GreenBasket" />
-  </a>
-  <a href="https://github.com/Chran19/Transformer-Fault-Prediction">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chran19&repo=Transformer-Fault-Prediction&theme=radical&hide_border=true" alt="Transformer Fault Prediction" />
-  </a>
-</p>
+
 
 <div align="center">
 
@@ -118,8 +118,8 @@
 <h2 align="center"><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chran19&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chran19&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chran19&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chran19&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <br>
