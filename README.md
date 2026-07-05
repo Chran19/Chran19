@@ -118,8 +118,8 @@
 <h2 align="center"><img src="https://api.iconify.design/lucide/bar-chart-2.svg?color=%232196F3" width="32" style="vertical-align: middle;" /> GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chran19&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chran19&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chran19&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chran19&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 <br>
@@ -130,8 +130,5 @@
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Banner" />
-</p>
+
 
